@@ -3,7 +3,7 @@
 ## **DAY01**
 [day01] (https://github.com/phong1711/day01)
 
-### **DAY02**
+## **DAY02**
 1. bài tập : Viết chương trình nhập vào 3 số nguyên a, b, c. Tìm, in ra số lớn nhất, số bé nhất.
 - bài làm : 
 ```swift
